@@ -1,1 +1,0 @@
-from _invidx import InvertedIndex, InvertedIndexBuilder
